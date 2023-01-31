@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Node.JS**
 
-- 👩🏻‍💻 Tech influence [https://www.instagram.com/codingeve/](https://www.instagram.com/codingeve/)
+- 👩🏻‍💻 Tech influencer [https://www.instagram.com/codingeve/](https://www.instagram.com/codingeve/)
 
 - 📫 How to reach me **evelynbandeiramesquita@gmail.com**
 
