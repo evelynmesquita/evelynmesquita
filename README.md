@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evelyn Mesquita</h1>
+<h1 align="center">Hi 👋🏼, I'm Evelyn Mesquita</h1>
 <h3 align="center">A passionate Fullstack Developer from Brazil</h3>
 <img align="right" width="400" src="/media/codelikeagirls.png">
 
