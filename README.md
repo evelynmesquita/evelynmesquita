@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **React, Node.JS**
 
-- 👨‍💻 Tech influence [https://www.instagram.com/codingeve/](https://www.instagram.com/codingeve/)
+- 👩🏻‍💻 Tech influence [https://www.instagram.com/codingeve/](https://www.instagram.com/codingeve/)
 
 - 📫 How to reach me **evelynbandeiramesquita@gmail.com**
 
-- ⚡ Language **Portuguese, English**
+- 🧏🏻‍♀️ Language **Portuguese, English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
