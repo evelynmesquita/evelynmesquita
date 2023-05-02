@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evelyn Mesquita</h1>
 <h3 align="center">A passionate Fullstack Developer from Brazil</h3>
+<img align="right" width="400" src="/media/codelikeagirls.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evelynmesquita&label=Profile%20views&color=0e75b6&style=flat" alt="evelynmesquita" /> </p>
 
