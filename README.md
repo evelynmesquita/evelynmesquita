@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evelynmesquita&label=Profile%20views&color=0e75b6&style=flat" alt="evelynmesquita" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 Tech influence [https://www.instagram.com/codingeve/](https://www.instagram.com/codingeve/)
 
